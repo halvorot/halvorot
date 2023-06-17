@@ -1,6 +1,6 @@
 ### Hi, I'm Halvor!
 
-I am a software engineer working in Oslo. I have a Master's degree in Cybernetics and Robotics from NTNU, and am currently working with Java, Apache Kafka as well as CI/CD and DevOps practices. Most of my GitHub repos are from my time as a student but there are more repos to come as side projects arise.
+I am a software engineer located in Oslo, currently working with Java, Apache Kafka as well as CI/CD and DevOps practices. I have a Master's degree in Cybernetics and Robotics from NTNU, and most of my GitHub repos are from my time as a student.
 
 My profile:
 
