@@ -7,8 +7,6 @@ I am a software engineer located in Oslo, currently working with Java, Apache Ka
 - Software engineer focusing on Java, Apache Kafka, CI/CD, and DevOps practices.
 - LinkedIn: https://www.linkedin.com/in/halvor-teigen/
 
-📫 How to reach me: Send me an email at halvorot@gmail.com
-
 <!--
 **halvorot/halvorot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
