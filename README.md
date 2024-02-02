@@ -8,8 +8,6 @@ I have a Master's degree in Cybernetics and Robotics from NTNU.
 - Software engineer focusing on Java, Apache Kafka, CI/CD, and DevOps practices.
 - LinkedIn: https://www.linkedin.com/in/halvor-teigen/
 
-<!--
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halvor-teigen) 
 
