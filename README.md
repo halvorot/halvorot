@@ -1,6 +1,6 @@
 ### Hi, I'm Halvor!
 
-I am a software engineer located in Oslo, currently working with Java, Apache Kafka as well as CI/CD and DevOps practices.
+I am a software engineer located in Oslo, currently working with Java/Kotlin, Apache Kafka as well as CI/CD and DevOps practices.
 I have a Master's degree in Cybernetics and Robotics from NTNU.
 
 **My profile:**
