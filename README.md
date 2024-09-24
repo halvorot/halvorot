@@ -6,6 +6,7 @@ I have a Master's degree in Cybernetics and Robotics from NTNU.
 **My profile:**
 - MSc in Cybernetics and Robotict from NTNU, specializing in Autonomous Systems.
 - Software engineer focusing on Java/Kotlin, Apache Kafka, CI/CD, and DevOps practices.
+- Website: https://halvorteigen.no
 - LinkedIn: https://www.linkedin.com/in/halvor-teigen/
 
 ## 🌐 Socials:
