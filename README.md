@@ -46,6 +46,8 @@ I have a Master's degree in Cybernetics and Robotics from NTNU.
 #### OTHER TOOLS
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Halvorot&icon=0&color=3)](https://visitcount.itsvg.in)
