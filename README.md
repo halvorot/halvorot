@@ -26,6 +26,7 @@ I have a Master's degree in Cybernetics and Robotics from NTNU.
 #### FRAMEWORKS, PLATFORMS & LIBRARIES
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA.svg?style=for-the-badge&logo=Ktor&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
