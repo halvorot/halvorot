@@ -1,11 +1,11 @@
 ### Hi, I'm Halvor!
 
-I am a software engineer located in Oslo, currently working with Java/Kotlin, Go, and AWS, as well as CI/CD and DevOps practices.
+I am a senior software engineer located in Oslo. Currently working in Java/Kotlin, Go and AWS, as well as focusing on DevEx and DevOps practices.
 I have a Master's degree in Cybernetics and Robotics from NTNU.
 
 **My profile:**
 - MSc in Cybernetics and Robotict from NTNU, specializing in Autonomous Systems.
-- Software engineer with a main focus on Java/Kotlin, Go, AWS, Apache Kafka, and CI/CD & DevOps practices.
+- Software engineer with a main focus on Java/Kotlin, Go, AWS, Apache Kafka, and DevEx & DevOps practices.
 - Website: https://halvorteigen.no
 - LinkedIn: https://www.linkedin.com/in/halvor-teigen/
 
