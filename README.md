@@ -29,7 +29,7 @@ I have a Master's degree in Cybernetics and Robotics from NTNU.
 
 #### FRAMEWORKS, PLATFORMS, DATABASES & TOOLS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq,ktor,postgres" alt="Spring, Kafka, Rabbitmq, Ktor, Postgres"/>
+  <img src="https://skillicons.dev/icons?i=spring,ktor,kafka,rabbitmq,postgres" alt="Spring, Kafka, Rabbitmq, Ktor, Postgres"/>
 </p>
 
 #### CLOUD & DEVOPS
