@@ -9,14 +9,10 @@ I have a Master's degree in Cybernetics and Robotics from NTNU.
 - Website: https://halvorteigen.no
 - LinkedIn: https://www.linkedin.com/in/halvor-teigen/
 
-<hr>
-
 ##  Socials:
 <a href="https://www.linkedin.com/in/halvor-teigen/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-
-<hr>
 
 ## 💻 Tech Stack:
 
