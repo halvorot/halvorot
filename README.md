@@ -24,25 +24,25 @@ I have a Master's degree in Cybernetics and Robotics from NTNU.
 #### LANGUAGES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,go,py" alt="Kotlin, Java, Go, Python"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,go,py" alt="Kotlin, Java, Go, Python" title="Kotlin, Java, Go, Python" />
 </p>
 
 #### FRAMEWORKS, PLATFORMS, DATABASES & TOOLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,ktor,kafka,rabbitmq,postgres" alt="Spring, Kafka, Rabbitmq, Ktor, Postgres"/>
+  <img src="https://skillicons.dev/icons?i=spring,ktor,kafka,rabbitmq,postgres" alt="Spring, Kafka, Rabbitmq, Ktor, Postgres" title="Spring, Kafka, Rabbitmq, Ktor, Postgres" />
 </p>
 
 #### CLOUD & DEVOPS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,grafana,kubernetes,docker,githubactions,gitlab" alt="AWS, Grafana, Kubernetes, Docker, Github Actions, Gitlab"/>
+  <img src="https://skillicons.dev/icons?i=aws,grafana,kubernetes,docker,githubactions,gitlab" alt="AWS, Grafana, Kubernetes, Docker, Github Actions, Gitlab" title="AWS, Grafana, Kubernetes, Docker, Github Actions, Gitlab" />
 </p>
 
 #### NON-PROFESSIONALLY USED TECH
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,typescript,react,nextjs,astro,opencv,ros" alt="Supabase, Typescript, React, NextJS, Astro, OpenCV, ROS"/>
+  <img src="https://skillicons.dev/icons?i=supabase,typescript,react,nextjs,astro,opencv,ros" alt="Supabase, Typescript, React, NextJS, Astro, OpenCV, ROS" title="Supabase, Typescript, React, NextJS, Astro, OpenCV, ROS" />
 </p>
 
 <hr>
